@@ -598,6 +598,9 @@ h1 {
 	padding: 10px;
 }
 
+.news-header:hover {
+	background-color: #65719d;
+}
 .news-content {
 	margin-top: 10px;
 	padding-left: 20px;
