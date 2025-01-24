@@ -446,6 +446,8 @@ img.author-img {
 .l-course-page_content_main {
 	padding-top: 20px;
 	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .this_course {
